@@ -1,6 +1,3 @@
-i  = 0
-while(i == 0):
-    print(i)
-
-
-    
+num = int(input("Enter a number :"))
+if num >=18:
+    print("your eligible for vote")

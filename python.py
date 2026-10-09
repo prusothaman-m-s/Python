@@ -1,3 +1,9 @@
+# if statements
+
+num = int(input("Enter a number :"))
+if num >=18:
+    print("your eligible for vote")
+
 # if else statements
 
 number = int(input("Enter a number :"))
